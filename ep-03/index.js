@@ -16,7 +16,7 @@ const result = [...num1,...num2];
 console.log(result);
 
 //object
-//Q. merge to object
+//Q. merge two object
 const obj1 = {
     a:1,
     b:2,
