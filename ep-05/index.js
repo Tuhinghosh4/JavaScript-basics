@@ -69,3 +69,8 @@ const ans3 = calculate(radius, formulaOfArea);
 const ans4 = calculate(radius, formulaofCircumference);
 console.log(ans3);
 console.log(ans4);
+
+
+//Arrow Function
+const multiply = (num1,num2) => num1*num2;
+console.log(multiply(2,3));
